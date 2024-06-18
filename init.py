@@ -7,4 +7,4 @@ except:
 state = True
 
 while state:
-  
+  i = input('')
